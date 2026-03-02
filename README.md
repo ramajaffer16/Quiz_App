@@ -1,4 +1,4 @@
-# 🧠 Quiz App
+# Quiz App
 
 A Flutter quiz app with a countdown timer, animated answer feedback, and a results screen.
 
