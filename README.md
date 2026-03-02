@@ -39,7 +39,3 @@ lib/
 │   └── results_screen.dart
 └── widgets/
     └── option_button.dart
-```
-
-## Screenshots
-> Add screenshots here
